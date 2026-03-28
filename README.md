@@ -1,4 +1,5 @@
-# 🤖 AI-Powered Code Reviewer
+# 🤖 AI-Powered-Code-Reviewer-and-Quality-Assistant
+
 
 🚀 AI tool to analyze Python code, generate docstrings, and improve code quality with an interactive UI.
 
